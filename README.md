@@ -13,10 +13,15 @@ Build and evaluate multiple machine learning models, including Decision Tree, Ra
 Requirements:
 
 Python 3.x
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
 
 Models Built:
